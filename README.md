@@ -16,8 +16,6 @@ If you want to contact me please do so below.
     <img src="svg-icons/twitter.svg"></a>
     <a href="https://www.youtube.com/channel/UC5LB019hgKnNYCTofL7MvYw" target="_blank" rel="noopener noreferrer">
     <img src="svg-icons/youtube.svg"></a>
-    <a href="https://github.com/UndeadAlex" target="_blank" rel="noopener noreferrer">
-    <img src="svg-icons/github.svg"></a>
     <a href="https://www.linkedin.com/in/marshall-dodd-64a576150/" target="_blank" rel="noopener noreferrer">
     <img src="svg-icons/linkedin.svg"></a>
     <a href="https://steamcommunity.com/id/DexiZom" target="_blank" rel="noopener noreferrer">
