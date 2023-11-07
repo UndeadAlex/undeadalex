@@ -18,11 +18,13 @@ If you want to contact me please do so below.
     <img src="svg-icons/youtube.svg"></a>
     <a href="https://www.linkedin.com/in/marshall-dodd-64a576150/" target="_blank" rel="noopener noreferrer">
     <img src="svg-icons/linkedin.svg"></a>
-    <a href="https://steamcommunity.com/id/DexiZom" target="_blank" rel="noopener noreferrer">
-    <img src="svg-icons/steam.svg"></a>
+    <!-- Disabled as i have V.A.C bans, granted with one exception due to having cheat engine that i left open for modding a different game, the rest were young and poor choices. -->
+    <!-- <a href="https://steamcommunity.com/id/DexiZom" target="_blank" rel="noopener noreferrer"> -->
+    <!-- <img src="svg-icons/steam.svg"></a> -->
     <a href="https://undeadalex.itch.io/" target="_blank" rel="noopener noreferrer">
     <img src="svg-icons/itch-io.svg"></a>
     <p><strong>Discord:</strong> UndeadAlex</p>
+
 </div>
 
 
