@@ -24,6 +24,7 @@ If you want to contact me please do so below.
     <a href="https://undeadalex.itch.io/" target="_blank" rel="noopener noreferrer">
     <img src="svg-icons/itch-io.svg"></a>
     <p><strong>Discord:</strong> UndeadAlex</p>
+    <p><strong>Email:</strong> <a href="mailto:alexundeaddodd@gmail.com">AlexUndeadDodd@gmail.com</a></p>
 
 </div>
 
