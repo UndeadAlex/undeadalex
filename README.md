@@ -1,9 +1,8 @@
 # Welcome!
 
 ## Info
-Gonna keep this short. Im a nerd, but i massivly suck at talking about myself or the stuff i do.
-
-I do my jobs and i try my best nothing less.
+Gonna keep this short, I like code alot.
+and I always love to learn more
 
 If you want to contact me please do so below.
 
